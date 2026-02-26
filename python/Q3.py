@@ -3,10 +3,11 @@
 import matplotlib.pyplot as plt
 from common import data
 
-
+# get data to plot
 x_dat = data['customer_age']
 y_dat = data['amount']
 
+# plot order amount vs customer age
 plot = plt.figure()
 plt.plot(x_dat, y_dat, "k .")
 plt.title("Purchase Amount vs Customer Age")
