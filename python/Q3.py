@@ -1,6 +1,6 @@
 # 3. How does customer age affect purchase amount?
 
-import numpy.polynomial.polynomial as poly
+import numpy.polynomial.polynomial as polynomial
 import matplotlib.pyplot as plt
 from common import data
 
@@ -8,7 +8,7 @@ from common import data
 valid_data = data[data['customer_age'].isna()==False]
 x_dat = valid_data['customer_age']
 y_dat = valid_data['amount']
-(trend_b, trend_m) = poly.polyfit(x_dat, y_dat, deg=1)
+(trend_b, trend_m) = polynomial.polyfit(x_dat, y_dat, deg=1)
 
 # trend line
 y_trend = trend_m*x_dat + trend_b
