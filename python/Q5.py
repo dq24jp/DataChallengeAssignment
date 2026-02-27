@@ -49,7 +49,7 @@ def beautify_category_data(cat_name, cat_data):
 
 # output
 print(f"standard deviation of ages between categories: {round(medians.std(), 3)}")
-print(f"category z-scores:")
+print(f"z-scores of category medians:")
 for cat in categories:
 	print(f"\t{beautify_category_data(cat, cat_zscores[cat])}")
 plt.show()
