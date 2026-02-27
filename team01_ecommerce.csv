@@ -1,0 +1,1001 @@
+order_id,customer_id,date,product_category,amount,payment_method,shipping_state,returned,customer_age
+1,103,2023-01-19,Books,6.8,Debit Card,FL,False,26.0
+2,271,2023-01-18,Electronics,17.35,PayPal,CA,False,50.0
+3,107,2023-09-14,Clothing,34.89,Cash,IL,True,31.0
+4,72,2023-03-19,Electronics,25.26,Credit Card,CA,False,65.0
+5,189,2023-06-24,Electronics,23.9,Cash,IL,False,37.0
+6,21,2023-07-13,Books,8.86,Debit Card,CA,False,32.0
+7,103,2023-04-23,Clothing,54.08,PayPal,NY,False,49.0
+8,122,2023-04-24,Clothing,44.96,Debit Card,OH,True,50.0
+9,215,2023-08-10,Electronics,119.35,Debit Card,TX,False,34.0
+10,88,2023-06-15,Clothing,59.24,Debit Card,TX,False,41.0
+11,100,2023-11-15,Electronics,17.19,PayPal,PA,False,47.0
+12,152,2023-05-12,Electronics,13.13,Cash,OH,False,
+13,131,2023-09-21,Home,18.41,Debit Card,FL,False,64.0
+14,150,2023-02-24,Electronics,91.87,PayPal,PA,False,65.0
+15,258,2023-12-25,Home,49.86,Credit Card,NY,True,33.0
+16,294,2023-05-11,Electronics,59.01,PayPal,PA,False,19.0
+17,192,2023-10-15,Electronics,55.12,Credit Card,TX,False,34.0
+18,277,2023-09-23,Electronics,63.58,PayPal,FL,False,49.0
+19,161,2023-06-11,Home,14.08,Cash,NY,False,60.0
+20,22,2023-03-28,Home,29.15,Debit Card,,False,25.0
+21,253,2023-02-24,Clothing,37.35,Cash,OH,False,
+22,236,2023-10-15,Clothing,60.78,PayPal,CA,False,20.0
+23,49,2023-06-27,Home,37.4,Debit Card,IL,False,29.0
+24,59,2023-12-15,Electronics,51.46,Credit Card,NY,False,37.0
+25,170,2023-01-08,Clothing,29.14,PayPal,FL,False,33.0
+26,188,2023-11-17,Books,35.4,Debit Card,PA,False,31.0
+27,271,2023-11-09,Home,20.96,Credit Card,OH,False,33.0
+28,190,2023-09-04,Clothing,15.97,Credit Card,PA,False,70.0
+29,175,2023-11-19,Sports,45.09,Cash,NY,False,66.0
+30,51,2023-09-12,Books,20.49,PayPal,OH,False,60.0
+31,55,2023-11-24,Electronics,16.16,Credit Card,FL,False,66.0
+32,244,2023-02-23,Home,23.82,Debit Card,NY,False,68.0
+33,131,2023-09-06,Home,32.56,Credit Card,FL,False,71.0
+34,135,2023-08-27,Clothing,41.34,Credit Card,PA,False,50.0
+35,21,2023-08-17,Clothing,16.11,Cash,TX,False,47.0
+36,167,2023-03-08,Clothing,26.47,Cash,OH,False,29.0
+37,274,2023-02-20,Home,42.52,Debit Card,CA,True,32.0
+38,89,2023-04-07,Clothing,16.15,Cash,TX,False,35.0
+39,14,2023-04-02,Books,84.94,Credit Card,CA,False,
+40,242,2023-09-21,Home,72.69,Credit Card,PA,False,40.0
+41,265,2023-10-18,Electronics,50.43,Cash,OH,False,31.0
+42,53,2023-04-06,Home,53.9,Credit Card,TX,True,
+43,92,2023-03-29,Electronics,29.27,Credit Card,TX,False,50.0
+44,264,2023-03-19,Home,25.23,Debit Card,NY,True,62.0
+45,35,2023-10-15,Home,114.15,Cash,IL,False,32.0
+46,206,2023-04-30,Electronics,36.35,Credit Card,PA,True,24.0
+47,81,2023-10-29,Clothing,25.94,Cash,FL,False,32.0
+48,50,2023-06-14,Electronics,14.69,Debit Card,PA,False,69.0
+49,2,2023-07-01,Electronics,36.02,Cash,FL,False,59.0
+50,54,2023-08-11,Clothing,38.1,Credit Card,OH,False,63.0
+51,106,2023-11-07,Clothing,35.5,Cash,FL,True,55.0
+52,260,2023-01-07,Sports,53.41,Credit Card,CA,False,63.0
+53,191,2023-11-26,Clothing,26.71,Credit Card,FL,False,73.0
+54,218,2023-09-20,Clothing,84.69,Credit Card,FL,False,74.0
+55,44,2023-06-10,Home,21.04,Debit Card,NY,True,71.0
+56,162,2023-05-31,Electronics,23.17,Cash,TX,False,61.0
+57,202,2023-03-26,Sports,25.39,Debit Card,PA,False,28.0
+58,270,2023-05-27,Home,28.62,Cash,PA,False,46.0
+59,271,2023-04-22,Books,18.47,Debit Card,OH,False,48.0
+60,215,2023-02-05,Electronics,4.49,PayPal,OH,False,42.0
+61,252,2023-10-12,Clothing,17.9,Credit Card,FL,False,69.0
+62,190,2023-07-07,Clothing,52.34,Credit Card,IL,False,
+63,296,2023-03-23,Books,10.64,Debit Card,PA,False,41.0
+64,213,2023-01-02,Electronics,51.04,PayPal,OH,False,74.0
+65,208,2023-10-30,Clothing,115.71,Credit Card,FL,False,36.0
+66,237,2023-07-16,Sports,77.69,Cash,OH,False,19.0
+67,53,2023-01-11,Clothing,38.19,Debit Card,CA,False,39.0
+68,280,2023-08-22,Clothing,22.57,Credit Card,CA,True,37.0
+69,217,2023-07-14,Electronics,24.09,Credit Card,OH,False,50.0
+70,252,2023-04-29,Sports,37.36,Debit Card,CA,False,25.0
+71,188,2023-01-20,Electronics,52.59,Debit Card,OH,False,42.0
+72,41,2023-09-18,Home,60.41,Cash,,False,63.0
+73,157,2023-10-20,Books,103.26,Cash,NY,False,26.0
+74,15,2023-09-13,Electronics,123.9,Credit Card,IL,False,51.0
+75,65,2023-08-10,Home,45.81,Credit Card,FL,False,74.0
+76,9,2023-08-14,Electronics,18.84,Debit Card,NY,False,40.0
+77,129,2023-02-22,Electronics,52.38,Credit Card,NY,False,22.0
+78,136,2023-12-21,Books,11.75,Credit Card,PA,False,72.0
+79,63,2023-12-08,Books,14.49,Debit Card,FL,False,42.0
+80,139,2023-12-30,Home,71.54,Credit Card,FL,False,25.0
+81,81,2023-10-07,Clothing,48.56,Credit Card,OH,False,33.0
+82,163,2023-03-22,Electronics,41.73,PayPal,NY,False,
+83,289,2023-07-21,Electronics,101.74,Cash,NY,False,65.0
+84,261,2023-06-07,Electronics,46.34,Debit Card,NY,False,62.0
+85,231,2023-04-30,Electronics,38.73,PayPal,,False,69.0
+86,41,2023-02-28,Clothing,30.8,Cash,PA,False,32.0
+87,28,2023-08-03,Clothing,21.17,Cash,FL,False,
+88,135,2023-05-08,Clothing,46.54,Cash,NY,False,39.0
+89,201,2023-08-12,Electronics,29.66,PayPal,CA,False,20.0
+90,268,2023-07-28,Clothing,9.69,PayPal,FL,False,55.0
+91,33,2023-04-25,Books,38.53,Cash,OH,False,71.0
+92,48,2023-07-28,Electronics,31.87,Credit Card,PA,False,31.0
+93,62,2023-01-14,Sports,71.56,Credit Card,CA,False,53.0
+94,216,2023-01-09,Books,1.93,PayPal,OH,False,35.0
+95,293,2023-02-09,Electronics,51.29,PayPal,TX,False,64.0
+96,99,2023-08-25,Books,32.58,PayPal,FL,False,58.0
+97,172,2023-10-08,Home,7.57,Cash,TX,False,35.0
+98,214,2023-12-25,Home,36.56,Credit Card,OH,False,20.0
+99,35,2023-07-20,Clothing,21.91,PayPal,OH,False,27.0
+100,227,2023-09-03,Clothing,20.63,PayPal,OH,False,66.0
+101,101,2023-10-05,Clothing,49.15,Debit Card,NY,False,56.0
+102,131,2023-08-23,Clothing,57.04,Cash,PA,False,64.0
+103,257,2023-01-04,Home,48.84,Debit Card,NY,False,18.0
+104,5,2023-06-03,Home,30.29,Credit Card,PA,False,44.0
+105,218,2023-01-29,Clothing,45.01,Debit Card,IL,False,74.0
+106,255,2023-04-19,Home,48.93,Debit Card,NY,False,
+107,283,2023-04-08,Electronics,88.3,Debit Card,TX,False,28.0
+108,207,2023-08-03,Electronics,27.96,Cash,PA,False,66.0
+109,15,2023-10-20,Books,41.88,Credit Card,NY,False,22.0
+110,42,2023-03-16,Clothing,68.65,Debit Card,FL,False,24.0
+111,179,2023-11-22,Electronics,62.18,Cash,OH,False,36.0
+112,63,2023-05-26,Electronics,3.11,Credit Card,PA,False,74.0
+113,231,2023-05-08,Electronics,22.22,PayPal,PA,False,73.0
+114,241,2023-12-07,Sports,46.96,Debit Card,NY,False,46.0
+115,52,2023-02-11,Home,15.93,Credit Card,IL,False,
+116,96,2023-12-22,Sports,16.36,Debit Card,NY,False,52.0
+117,222,2023-02-10,Home,33.15,PayPal,TX,False,64.0
+118,231,2023-02-03,Clothing,51.87,Credit Card,TX,False,54.0
+119,237,2023-01-17,Clothing,17.8,Cash,PA,False,72.0
+120,143,2023-06-14,Home,39.98,Credit Card,PA,False,29.0
+121,171,2023-06-02,Electronics,5.85,Cash,NY,False,47.0
+122,29,2023-03-17,Books,23.57,Credit Card,TX,False,37.0
+123,36,2023-03-28,Books,76.91,Cash,TX,False,54.0
+124,13,2023-04-27,Clothing,4.3,PayPal,IL,False,20.0
+125,160,2023-12-28,Sports,47.56,PayPal,FL,False,26.0
+126,187,2023-12-08,Books,53.36,PayPal,IL,False,58.0
+127,243,2023-01-27,Home,46.08,Credit Card,CA,False,56.0
+128,86,2023-11-09,Electronics,15.62,PayPal,OH,False,43.0
+129,284,2023-10-14,Clothing,47.71,Debit Card,IL,False,19.0
+130,66,2023-05-14,Clothing,99.42,PayPal,NY,False,40.0
+131,170,2023-08-07,Electronics,28.86,Cash,FL,False,40.0
+132,45,2023-06-17,Electronics,38.01,Cash,NY,False,38.0
+133,62,2023-04-08,Books,25.82,Cash,OH,False,33.0
+134,134,2023-09-25,Electronics,70.7,Credit Card,CA,False,26.0
+135,284,2023-08-25,Home,36.32,Debit Card,FL,False,30.0
+136,28,2023-11-05,Sports,65.71,PayPal,PA,True,45.0
+137,108,2023-06-22,Books,56.55,Debit Card,TX,False,44.0
+138,44,2023-07-09,Electronics,6.52,Debit Card,IL,False,68.0
+139,286,2023-05-02,Books,8.62,Cash,NY,False,69.0
+140,128,2023-02-15,Electronics,14.61,Cash,CA,False,34.0
+141,231,2023-03-05,Electronics,19.16,Cash,TX,False,55.0
+142,190,2023-05-10,Home,75.5,Credit Card,IL,False,53.0
+143,225,2023-11-06,Clothing,20.03,Debit Card,TX,False,18.0
+144,283,2023-12-29,Clothing,32.09,Debit Card,IL,False,35.0
+145,121,2023-07-12,Home,64.49,Credit Card,PA,False,68.0
+146,116,2023-11-03,Electronics,2.65,Credit Card,FL,False,26.0
+147,233,2023-06-30,Electronics,29.05,Credit Card,TX,False,30.0
+148,259,2023-10-19,Clothing,21.01,Debit Card,TX,False,57.0
+149,198,2023-10-09,Books,66.19,Debit Card,TX,False,72.0
+150,137,2023-01-29,Home,29.31,Cash,FL,True,62.0
+151,165,2023-05-29,Electronics,70.86,Cash,CA,False,32.0
+152,225,2023-09-24,Clothing,14.97,Debit Card,IL,False,60.0
+153,234,2023-10-23,Electronics,51.04,Cash,PA,False,61.0
+154,172,2023-01-11,Electronics,83.97,Credit Card,TX,False,63.0
+155,152,2023-06-13,Books,15.79,PayPal,OH,False,21.0
+156,160,2023-04-23,Electronics,14.72,Cash,FL,False,50.0
+157,96,2023-07-06,Electronics,55.06,Debit Card,CA,True,41.0
+158,233,2023-10-22,Home,17.46,Cash,IL,False,53.0
+159,180,2023-08-20,Home,9.89,Cash,FL,False,68.0
+160,113,2023-08-15,Home,5.12,Cash,PA,False,58.0
+161,52,2023-11-06,Electronics,36.89,PayPal,PA,False,
+162,268,2023-04-08,Electronics,5.5,Credit Card,IL,False,53.0
+163,295,2023-02-24,Electronics,26.31,Debit Card,TX,False,37.0
+164,113,2023-04-21,Electronics,37.97,PayPal,PA,False,58.0
+165,101,2023-06-01,Home,12.78,Debit Card,CA,False,62.0
+166,113,2023-09-03,Books,10.89,Debit Card,FL,False,61.0
+167,81,2023-03-10,Home,28.87,Debit Card,,False,28.0
+168,187,2023-11-08,Books,26.74,PayPal,TX,False,29.0
+169,113,2023-10-16,Clothing,39.35,Credit Card,CA,False,35.0
+170,2,2023-09-07,Home,28.32,Debit Card,CA,False,47.0
+171,130,2023-02-05,Clothing,31.61,Credit Card,NY,False,61.0
+172,220,2023-08-27,Clothing,52.8,Credit Card,CA,False,65.0
+173,54,2023-05-28,Clothing,12.05,Cash,IL,False,54.0
+174,224,2023-08-15,Electronics,56.23,PayPal,FL,False,37.0
+175,225,2023-09-01,Clothing,72.33,PayPal,NY,False,42.0
+176,126,2023-12-03,Sports,28.83,Cash,FL,False,29.0
+177,130,2023-12-31,Electronics,3.98,Cash,FL,False,38.0
+178,53,2023-07-20,Electronics,24.05,Credit Card,TX,False,42.0
+179,172,2023-06-03,Clothing,41.69,Debit Card,TX,False,28.0
+180,218,2023-03-14,Books,34.75,PayPal,NY,False,26.0
+181,160,2023-07-20,Home,180.12,Debit Card,PA,True,67.0
+182,198,2023-10-23,Home,2.1,Debit Card,OH,False,42.0
+183,247,2023-01-17,Electronics,81.74,Cash,TX,True,52.0
+184,203,2023-05-09,Home,45.41,Debit Card,OH,False,69.0
+185,184,2023-08-05,Clothing,26.11,Credit Card,TX,False,49.0
+186,123,2023-03-02,Books,7.77,Cash,TX,False,66.0
+187,255,2023-04-14,Home,67.01,Debit Card,FL,False,31.0
+188,294,2023-02-11,Electronics,28.31,Cash,NY,False,18.0
+189,280,2023-01-25,Electronics,22.6,Credit Card,FL,False,34.0
+190,98,2023-02-08,Electronics,34.04,Credit Card,IL,False,42.0
+191,198,2023-10-18,Clothing,36.03,Debit Card,FL,False,25.0
+192,240,2023-05-11,Electronics,10.63,Cash,OH,False,22.0
+193,144,2023-08-17,Home,23.32,Debit Card,OH,False,22.0
+194,97,2023-04-18,Clothing,66.76,Debit Card,IL,True,58.0
+195,201,2023-06-21,Electronics,28.77,Cash,CA,True,52.0
+196,124,2023-04-12,Electronics,18.79,Debit Card,CA,False,36.0
+197,187,2023-12-20,Electronics,27.66,Credit Card,IL,False,40.0
+198,259,2023-01-12,Books,37.77,Cash,IL,False,26.0
+199,148,2023-10-02,Electronics,32.3,Cash,FL,False,71.0
+200,252,2023-04-11,Home,40.62,Cash,IL,False,
+201,147,2023-02-13,Books,24.87,Cash,NY,False,67.0
+202,148,2023-11-01,Home,32.63,Debit Card,CA,False,33.0
+203,199,2023-01-17,Books,26.9,Debit Card,,False,50.0
+204,128,2023-11-26,Clothing,44.39,Credit Card,PA,False,19.0
+205,39,2023-02-26,Sports,34.34,PayPal,IL,False,31.0
+206,129,2023-11-07,Electronics,9.25,PayPal,TX,False,63.0
+207,267,2023-10-30,Electronics,43.97,Credit Card,TX,False,18.0
+208,151,2023-01-12,Home,44.47,PayPal,IL,False,43.0
+209,298,2023-11-14,Sports,145.32,Credit Card,NY,False,42.0
+210,99,2023-03-21,Books,108.78,Debit Card,TX,False,33.0
+211,263,2023-08-04,Electronics,47.63,Cash,PA,False,32.0
+212,252,2023-12-05,Electronics,30.41,Cash,OH,False,43.0
+213,144,2023-09-21,Sports,17.93,Debit Card,IL,True,64.0
+214,112,2023-05-29,Electronics,36.38,Cash,NY,True,61.0
+215,60,2023-03-22,Books,15.45,Cash,NY,False,33.0
+216,2,2023-08-03,Books,66.71,PayPal,FL,True,31.0
+217,254,2023-07-17,Clothing,3.73,Debit Card,NY,False,46.0
+218,140,2023-07-19,Clothing,57.72,PayPal,TX,False,
+219,37,2023-01-25,Clothing,150.19,PayPal,OH,False,64.0
+220,160,2023-03-30,Electronics,125.7,Cash,TX,False,72.0
+221,9,2023-09-25,Books,13.93,Cash,IL,False,32.0
+222,233,2023-05-23,Clothing,8.22,Debit Card,OH,False,36.0
+223,99,2023-02-28,Books,85.58,Cash,IL,False,25.0
+224,147,2023-12-31,Electronics,52.08,Cash,NY,False,51.0
+225,208,2023-01-26,Sports,29.3,Debit Card,PA,False,19.0
+226,131,2023-02-16,Clothing,55.68,Cash,CA,False,
+227,152,2023-10-15,Electronics,15.16,PayPal,OH,False,27.0
+228,54,2023-09-23,Electronics,52.96,Debit Card,FL,False,52.0
+229,120,2023-01-16,Home,12.0,Cash,CA,True,40.0
+230,161,2023-07-18,Home,55.89,Credit Card,NY,False,66.0
+231,116,2023-10-09,Books,25.67,Debit Card,NY,True,25.0
+232,75,2023-03-27,Electronics,40.53,Debit Card,CA,False,45.0
+233,113,2023-09-07,Electronics,41.61,Credit Card,FL,True,40.0
+234,104,2023-09-27,Clothing,114.18,Cash,OH,False,21.0
+235,254,2023-12-01,Clothing,49.3,Cash,OH,False,31.0
+236,227,2023-04-27,Clothing,68.85,Debit Card,CA,False,70.0
+237,112,2023-01-07,Sports,48.39,Debit Card,IL,False,59.0
+238,99,2023-05-17,Sports,31.46,Cash,TX,False,46.0
+239,153,2023-06-25,Sports,27.46,Cash,PA,False,18.0
+240,194,2023-11-24,Books,27.37,PayPal,IL,False,21.0
+241,163,2023-11-11,Clothing,54.79,Debit Card,OH,False,49.0
+242,208,2023-08-03,Clothing,93.84,Debit Card,TX,False,50.0
+243,169,2023-03-23,Clothing,95.84,Credit Card,PA,False,66.0
+244,161,2023-08-11,Books,26.82,PayPal,PA,False,43.0
+245,68,2023-04-13,Electronics,62.1,Cash,PA,True,34.0
+246,289,2023-09-30,Clothing,22.53,PayPal,NY,False,56.0
+247,277,2023-01-14,Electronics,80.63,Cash,PA,False,40.0
+248,135,2023-06-08,Clothing,24.17,Cash,FL,False,
+249,195,2023-06-01,Books,87.51,PayPal,CA,False,69.0
+250,128,2023-04-18,Books,60.58,Debit Card,OH,False,32.0
+251,33,2023-07-07,Electronics,24.27,Cash,FL,False,30.0
+252,176,2023-10-28,Sports,66.37,PayPal,CA,False,19.0
+253,22,2023-04-08,Home,27.58,Credit Card,IL,False,36.0
+254,238,2023-05-11,Electronics,208.28,PayPal,IL,False,41.0
+255,158,2023-10-20,Electronics,31.99,Credit Card,CA,False,62.0
+256,38,2023-06-20,Electronics,33.4,Cash,FL,False,41.0
+257,230,2023-07-02,Electronics,44.66,PayPal,CA,False,28.0
+258,51,2023-12-30,Sports,9.62,PayPal,,False,39.0
+259,264,2023-02-08,Clothing,65.54,Credit Card,NY,False,32.0
+260,283,2023-01-15,Books,13.51,PayPal,OH,True,27.0
+261,27,2023-01-04,Clothing,88.39,PayPal,IL,False,58.0
+262,226,2023-12-15,Electronics,35.58,Cash,OH,False,44.0
+263,277,2023-07-29,Clothing,58.88,PayPal,NY,False,26.0
+264,286,2023-06-10,Electronics,49.53,Debit Card,PA,False,69.0
+265,97,2023-01-16,Clothing,108.66,Credit Card,PA,False,45.0
+266,284,2023-04-18,Sports,3.86,PayPal,IL,False,18.0
+267,147,2023-11-07,Clothing,22.16,Credit Card,IL,False,34.0
+268,4,2023-08-15,Home,50.3,Credit Card,PA,False,48.0
+269,35,2023-06-19,Electronics,8.82,Credit Card,TX,False,61.0
+270,192,2023-02-03,Electronics,86.49,PayPal,OH,True,27.0
+271,49,2023-09-08,Electronics,52.67,PayPal,NY,False,54.0
+272,17,2023-09-04,Home,26.46,Credit Card,OH,False,46.0
+273,172,2023-09-26,Electronics,41.94,Debit Card,NY,False,35.0
+274,220,2023-05-21,Clothing,21.83,Credit Card,TX,False,64.0
+275,158,2023-10-01,Home,3.34,Debit Card,,False,55.0
+276,46,2023-04-06,Clothing,24.72,Credit Card,NY,False,56.0
+277,6,2023-08-15,Electronics,4.85,Cash,OH,False,66.0
+278,99,2023-02-08,Electronics,27.92,Credit Card,CA,False,23.0
+279,233,2023-10-29,Sports,35.94,Credit Card,PA,False,57.0
+280,37,2023-01-29,Home,71.45,PayPal,PA,False,29.0
+281,280,2023-11-14,Clothing,3.41,Debit Card,TX,False,70.0
+282,181,2023-09-02,Electronics,49.68,Cash,NY,False,31.0
+283,95,2023-08-24,Sports,71.37,Debit Card,FL,False,61.0
+284,99,2023-07-04,Home,106.65,Cash,NY,False,72.0
+285,188,2023-09-29,Clothing,15.1,Credit Card,PA,False,27.0
+286,116,2023-08-24,Books,21.83,PayPal,IL,False,71.0
+287,191,2023-08-27,Electronics,74.86,PayPal,CA,False,37.0
+288,253,2023-09-23,Clothing,16.81,Debit Card,TX,False,32.0
+289,161,2023-12-25,Home,88.91,PayPal,IL,False,
+290,256,2023-12-06,Electronics,21.96,Debit Card,OH,False,24.0
+291,128,2023-03-06,Sports,88.49,Debit Card,FL,False,58.0
+292,18,2023-06-26,Home,21.67,Cash,IL,False,27.0
+293,281,2023-01-03,Home,130.83,Debit Card,OH,False,27.0
+294,223,2023-05-22,Electronics,83.38,Cash,IL,False,65.0
+295,54,2023-06-07,Electronics,32.26,PayPal,FL,False,56.0
+296,58,2023-11-20,Clothing,112.21,Debit Card,IL,False,45.0
+297,174,2023-05-26,Books,33.6,Debit Card,TX,False,47.0
+298,280,2023-10-20,Electronics,44.7,Credit Card,PA,False,54.0
+299,114,2023-06-02,Clothing,70.25,Debit Card,NY,False,72.0
+300,288,2023-07-12,Home,55.45,Debit Card,IL,False,20.0
+301,151,2023-03-14,Electronics,67.53,Credit Card,TX,False,67.0
+302,127,2023-11-01,Home,42.3,Credit Card,NY,False,60.0
+303,155,2023-12-10,Electronics,27.0,PayPal,OH,False,32.0
+304,273,2023-05-20,Sports,43.64,Debit Card,NY,False,38.0
+305,104,2023-07-06,Clothing,63.0,PayPal,OH,False,69.0
+306,299,2023-10-20,Electronics,69.44,PayPal,IL,False,54.0
+307,246,2023-03-02,Clothing,26.91,Credit Card,TX,False,73.0
+308,176,2023-07-17,Clothing,42.81,Cash,PA,False,29.0
+309,39,2023-10-22,Books,68.22,PayPal,IL,False,21.0
+310,170,2023-11-15,Home,196.37,Cash,OH,False,64.0
+311,247,2023-10-29,Home,25.61,Debit Card,FL,False,26.0
+312,26,2023-12-10,Electronics,33.06,Credit Card,NY,False,56.0
+313,13,2023-01-11,Electronics,9.35,Debit Card,IL,False,59.0
+314,36,2023-03-03,Electronics,31.13,Debit Card,OH,True,45.0
+315,173,2023-11-29,Home,43.54,Credit Card,NY,False,40.0
+316,20,2023-08-14,Books,34.22,Debit Card,OH,False,62.0
+317,264,2023-06-02,Clothing,17.46,Credit Card,TX,False,57.0
+318,142,2023-07-18,Electronics,30.97,Cash,CA,False,61.0
+319,143,2023-02-21,Home,15.3,Debit Card,IL,False,39.0
+320,92,2023-09-17,Books,86.88,Credit Card,PA,False,41.0
+321,288,2023-02-28,Home,50.71,PayPal,IL,False,68.0
+322,215,2023-03-13,Books,28.36,Debit Card,NY,False,43.0
+323,51,2023-05-28,Electronics,24.25,Cash,TX,False,47.0
+324,153,2023-12-15,Electronics,68.54,Credit Card,OH,False,50.0
+325,186,2023-03-04,Books,6.21,Debit Card,FL,False,33.0
+326,63,2023-11-06,Home,105.85,Debit Card,,False,39.0
+327,190,2023-08-31,Clothing,81.21,Debit Card,TX,False,66.0
+328,125,2023-11-26,Home,11.85,Cash,IL,False,74.0
+329,150,2023-04-17,Books,53.75,Credit Card,FL,False,67.0
+330,58,2023-08-14,Home,14.8,PayPal,TX,False,60.0
+331,180,2023-11-09,Home,11.6,PayPal,CA,False,35.0
+332,170,2023-08-06,Clothing,6.65,PayPal,PA,False,24.0
+333,271,2023-08-29,Clothing,10.22,Credit Card,NY,True,67.0
+334,54,2023-09-16,Clothing,115.63,PayPal,TX,False,43.0
+335,101,2023-09-19,Books,93.5,Cash,TX,False,25.0
+336,264,2023-01-05,Books,40.4,Credit Card,CA,False,23.0
+337,53,2023-09-18,Books,16.57,Debit Card,IL,False,47.0
+338,60,2023-02-23,Electronics,89.27,Cash,OH,False,56.0
+339,108,2023-02-16,Home,67.79,Debit Card,OH,False,40.0
+340,5,2023-08-03,Books,41.26,PayPal,PA,False,49.0
+341,103,2023-06-26,Home,44.12,Cash,PA,False,39.0
+342,196,2023-01-09,Books,94.53,Credit Card,NY,False,59.0
+343,262,2023-04-09,Books,3.34,Cash,TX,False,60.0
+344,47,2023-01-20,Clothing,95.65,Debit Card,FL,False,74.0
+345,144,2023-08-29,Clothing,142.98,Credit Card,TX,False,62.0
+346,269,2023-03-02,Electronics,37.64,Cash,OH,False,26.0
+347,124,2023-06-27,Clothing,7.37,Cash,NY,False,48.0
+348,106,2023-12-04,Home,62.32,Cash,TX,False,24.0
+349,158,2023-03-03,Books,9.93,Cash,CA,False,26.0
+350,147,2023-05-25,Electronics,51.83,Credit Card,OH,False,30.0
+351,145,2023-08-04,Electronics,48.92,Debit Card,TX,False,20.0
+352,120,2023-01-03,Home,53.64,Cash,TX,False,52.0
+353,275,2023-06-09,Electronics,54.77,Credit Card,OH,False,50.0
+354,92,2023-08-15,Electronics,28.68,Debit Card,FL,False,38.0
+355,58,2023-09-26,Electronics,7.79,Cash,OH,False,48.0
+356,229,2023-04-30,Electronics,65.58,Debit Card,CA,False,69.0
+357,117,2023-03-30,Electronics,43.39,Debit Card,CA,False,51.0
+358,279,2023-11-25,Clothing,35.12,Credit Card,TX,False,49.0
+359,127,2023-03-09,Clothing,8.35,Debit Card,PA,False,74.0
+360,129,2023-12-23,Books,18.86,Credit Card,FL,False,52.0
+361,58,2023-04-08,Clothing,40.96,Cash,TX,False,32.0
+362,122,2023-09-24,Home,145.01,Debit Card,OH,False,73.0
+363,1,2023-04-15,Electronics,11.25,Debit Card,TX,False,49.0
+364,239,2023-11-19,Electronics,26.26,PayPal,NY,False,23.0
+365,290,2023-05-03,Home,70.54,Cash,NY,False,62.0
+366,96,2023-01-29,Electronics,13.16,Cash,PA,False,38.0
+367,126,2023-05-17,Clothing,71.14,PayPal,FL,False,50.0
+368,118,2023-07-14,Home,5.48,PayPal,IL,False,49.0
+369,48,2023-08-14,Home,7.4,Credit Card,NY,False,69.0
+370,89,2023-11-28,Electronics,81.57,Credit Card,IL,False,36.0
+371,237,2023-06-19,Clothing,58.52,Debit Card,CA,False,50.0
+372,272,2023-01-09,Home,96.74,Debit Card,NY,False,45.0
+373,189,2023-02-09,Electronics,108.9,Debit Card,NY,False,48.0
+374,192,2023-01-25,Home,83.64,Debit Card,FL,False,38.0
+375,69,2023-09-18,Home,7.6,Credit Card,PA,False,71.0
+376,278,2023-08-14,Sports,26.15,Cash,IL,False,51.0
+377,247,2023-05-04,Electronics,33.5,Debit Card,OH,False,32.0
+378,76,2023-02-07,Books,55.43,Cash,NY,False,31.0
+379,154,2023-11-24,Clothing,63.9,Debit Card,NY,False,36.0
+380,144,2023-09-08,Clothing,24.98,PayPal,FL,True,60.0
+381,86,2023-06-25,Electronics,21.64,Debit Card,FL,False,32.0
+382,185,2023-03-31,Home,37.45,Debit Card,PA,False,23.0
+383,285,2023-02-06,Electronics,35.85,Debit Card,IL,False,
+384,220,2023-11-12,Clothing,17.5,Credit Card,,False,26.0
+385,69,2023-06-25,Electronics,9.37,PayPal,OH,False,54.0
+386,47,2023-10-11,Books,24.26,Debit Card,PA,False,37.0
+387,94,2023-03-22,Books,52.65,Debit Card,CA,False,
+388,238,2023-04-24,Home,31.64,Cash,TX,False,55.0
+389,204,2023-02-09,Electronics,3.81,PayPal,NY,False,43.0
+390,218,2023-10-28,Electronics,45.99,Debit Card,IL,True,35.0
+391,39,2023-08-12,Home,36.93,Cash,PA,True,45.0
+392,100,2023-11-14,Clothing,46.18,Cash,NY,False,72.0
+393,289,2023-12-15,Electronics,68.08,Credit Card,IL,False,68.0
+394,254,2023-04-25,Home,38.6,Cash,IL,False,26.0
+395,222,2023-07-05,Sports,16.07,Debit Card,IL,False,49.0
+396,23,2023-11-19,Home,37.76,Credit Card,NY,False,70.0
+397,250,2023-02-25,Home,30.66,Credit Card,PA,False,73.0
+398,10,2023-02-09,Sports,59.85,Debit Card,OH,False,23.0
+399,246,2023-12-20,Electronics,13.42,PayPal,FL,False,31.0
+400,100,2023-02-09,Home,88.6,Cash,NY,False,45.0
+401,290,2023-12-13,Sports,27.19,Credit Card,IL,False,41.0
+402,180,2023-08-25,Electronics,25.78,PayPal,PA,False,30.0
+403,223,2023-10-16,Home,95.38,Debit Card,OH,False,60.0
+404,250,2023-09-19,Home,84.48,Cash,TX,False,29.0
+405,147,2023-08-04,Home,25.0,Cash,CA,False,68.0
+406,96,2023-05-27,Home,15.63,Credit Card,IL,True,36.0
+407,257,2023-12-02,Sports,55.95,Cash,TX,False,38.0
+408,4,2023-06-17,Books,42.16,Cash,FL,False,
+409,16,2023-04-02,Electronics,24.12,Cash,OH,False,36.0
+410,280,2023-12-19,Books,82.57,Cash,OH,False,41.0
+411,247,2023-02-28,Electronics,30.53,Debit Card,IL,True,43.0
+412,258,2023-02-28,Clothing,17.13,PayPal,OH,False,62.0
+413,160,2023-10-31,Clothing,49.42,Debit Card,TX,True,45.0
+414,152,2023-06-18,Clothing,10.74,Debit Card,IL,False,63.0
+415,178,2023-09-26,Clothing,23.04,Credit Card,NY,False,73.0
+416,163,2023-12-29,Sports,70.16,Cash,,False,35.0
+417,33,2023-02-14,Home,38.75,Debit Card,,False,61.0
+418,179,2023-12-11,Home,41.3,Cash,PA,False,53.0
+419,101,2023-06-30,Electronics,22.24,Debit Card,NY,False,59.0
+420,268,2023-06-19,Sports,26.65,Debit Card,NY,False,46.0
+421,65,2023-12-22,Sports,12.65,Credit Card,PA,True,34.0
+422,168,2023-07-10,Books,43.65,PayPal,TX,False,21.0
+423,43,2023-06-04,Electronics,12.5,PayPal,PA,False,61.0
+424,44,2023-07-07,Electronics,11.89,Debit Card,PA,False,62.0
+425,285,2023-01-07,Electronics,29.35,Credit Card,CA,False,46.0
+426,12,2023-05-13,Electronics,67.87,Cash,TX,False,21.0
+427,95,2023-08-23,Clothing,13.66,Cash,CA,False,27.0
+428,253,2023-02-14,Sports,65.71,Debit Card,IL,False,42.0
+429,242,2023-11-10,Clothing,52.39,PayPal,OH,False,48.0
+430,35,2023-09-06,Electronics,3.54,Credit Card,PA,False,20.0
+431,215,2023-01-31,Electronics,38.03,PayPal,IL,False,64.0
+432,90,2023-01-23,Electronics,13.06,Cash,TX,False,19.0
+433,264,2023-06-09,Electronics,33.76,PayPal,PA,False,74.0
+434,93,2023-12-29,Electronics,25.04,Cash,OH,False,42.0
+435,90,2023-06-07,Electronics,107.14,Credit Card,IL,False,66.0
+436,115,2023-02-08,Books,50.9,Credit Card,FL,True,23.0
+437,105,2023-03-23,Sports,26.08,Debit Card,NY,False,43.0
+438,196,2023-12-22,Clothing,39.98,Debit Card,PA,False,25.0
+439,114,2023-09-15,Clothing,63.39,PayPal,OH,False,52.0
+440,75,2023-07-25,Books,34.16,Credit Card,NY,False,44.0
+441,217,2023-03-18,Electronics,100.88,Credit Card,CA,False,42.0
+442,277,2023-01-12,Electronics,35.29,Debit Card,IL,False,35.0
+443,249,2023-10-22,Books,44.57,Cash,CA,True,71.0
+444,164,2023-08-12,Electronics,31.27,PayPal,OH,False,18.0
+445,192,2023-01-13,Home,18.86,PayPal,PA,False,65.0
+446,227,2023-02-15,Home,24.01,Debit Card,NY,False,56.0
+447,177,2023-06-04,Clothing,32.55,Credit Card,NY,False,20.0
+448,99,2023-04-23,Clothing,73.72,Debit Card,,False,72.0
+449,36,2023-08-21,Books,83.25,Debit Card,PA,False,21.0
+450,96,2023-01-17,Electronics,108.85,Debit Card,FL,False,58.0
+451,152,2023-12-26,Electronics,18.45,Debit Card,FL,False,54.0
+452,151,2023-08-11,Home,58.58,Cash,IL,False,68.0
+453,190,2023-12-20,Clothing,76.62,Cash,PA,False,32.0
+454,224,2023-07-07,Electronics,15.43,Credit Card,IL,False,25.0
+455,37,2023-12-10,Books,36.95,Debit Card,PA,False,55.0
+456,268,2023-12-31,Clothing,6.15,Cash,OH,False,67.0
+457,183,2023-06-12,Books,53.8,Credit Card,OH,False,
+458,13,2023-11-22,Books,82.5,Debit Card,CA,False,73.0
+459,279,2023-03-15,Home,9.56,PayPal,IL,False,64.0
+460,217,2023-08-21,Clothing,19.97,Cash,PA,False,43.0
+461,286,2023-08-12,Sports,19.46,Credit Card,FL,False,56.0
+462,273,2023-11-15,Electronics,14.66,PayPal,PA,False,27.0
+463,62,2023-03-01,Home,37.14,Debit Card,OH,False,55.0
+464,84,2023-12-01,Electronics,50.48,Debit Card,PA,False,31.0
+465,217,2023-08-10,Clothing,56.4,Debit Card,IL,True,66.0
+466,187,2023-02-06,Clothing,66.35,Cash,CA,False,58.0
+467,19,2023-10-05,Sports,109.67,Credit Card,CA,False,36.0
+468,177,2023-07-15,Sports,36.52,PayPal,,False,47.0
+469,100,2023-12-18,Electronics,28.05,Credit Card,CA,False,22.0
+470,233,2023-08-30,Electronics,107.69,Cash,OH,False,72.0
+471,76,2023-11-20,Home,36.84,Credit Card,TX,True,48.0
+472,265,2023-08-07,Clothing,23.88,Cash,IL,False,
+473,284,2023-07-11,Electronics,90.72,Debit Card,,False,36.0
+474,206,2023-01-17,Home,28.95,PayPal,IL,False,
+475,223,2023-01-12,Clothing,55.7,Debit Card,TX,False,69.0
+476,52,2023-07-12,Sports,22.94,Credit Card,CA,False,56.0
+477,144,2023-01-22,Electronics,53.06,Debit Card,TX,False,41.0
+478,69,2023-04-30,Clothing,56.96,PayPal,FL,False,51.0
+479,99,2023-07-29,Clothing,90.59,Debit Card,FL,False,74.0
+480,25,2023-11-02,Books,28.61,PayPal,OH,False,40.0
+481,53,2023-09-27,Clothing,39.48,PayPal,IL,False,
+482,151,2023-07-11,Home,47.5,Debit Card,IL,False,62.0
+483,144,2023-06-24,Electronics,35.96,Cash,NY,True,57.0
+484,57,2023-10-12,Books,19.33,Credit Card,OH,False,23.0
+485,39,2023-07-23,Clothing,71.75,Cash,NY,False,55.0
+486,109,2023-06-13,Electronics,38.16,Cash,FL,False,58.0
+487,181,2023-09-08,Home,8.32,Debit Card,CA,False,53.0
+488,42,2023-08-15,Electronics,12.81,Credit Card,TX,False,44.0
+489,186,2023-01-07,Electronics,27.36,Credit Card,NY,False,28.0
+490,223,2023-01-29,Books,22.64,Cash,,False,22.0
+491,122,2023-02-02,Clothing,10.56,Debit Card,NY,False,74.0
+492,133,2023-05-14,Home,13.56,Credit Card,CA,False,34.0
+493,163,2023-03-20,Electronics,99.29,Cash,CA,False,69.0
+494,215,2023-02-27,Books,69.63,Credit Card,IL,False,24.0
+495,221,2023-01-26,Electronics,83.29,Debit Card,TX,False,44.0
+496,235,2023-08-14,Clothing,97.19,Debit Card,CA,False,64.0
+497,146,2023-10-12,Sports,27.24,Debit Card,OH,False,74.0
+498,239,2023-01-04,Books,53.06,Credit Card,NY,False,32.0
+499,76,2023-04-09,Clothing,3.42,PayPal,NY,False,63.0
+500,9,2023-02-08,Clothing,50.63,Credit Card,FL,False,
+501,74,2023-09-28,Books,18.24,PayPal,CA,False,28.0
+502,253,2023-10-12,Clothing,23.27,Debit Card,PA,True,62.0
+503,230,2023-06-06,Books,42.56,Cash,IL,False,
+504,7,2023-03-16,Books,34.06,PayPal,TX,True,39.0
+505,174,2023-10-15,Electronics,22.44,Debit Card,PA,False,45.0
+506,141,2023-05-10,Electronics,23.41,Debit Card,IL,False,41.0
+507,168,2023-06-24,Home,15.38,PayPal,NY,False,46.0
+508,170,2023-03-25,Electronics,10.23,Cash,PA,False,26.0
+509,283,2023-01-22,Electronics,9.62,Debit Card,IL,True,59.0
+510,122,2023-01-27,Sports,60.6,PayPal,NY,False,21.0
+511,194,2023-07-14,Home,28.53,Cash,NY,False,66.0
+512,5,2023-12-03,Books,87.95,Cash,,False,
+513,29,2023-08-24,Home,55.85,Debit Card,NY,False,73.0
+514,165,2023-04-02,Home,46.14,Credit Card,OH,False,35.0
+515,136,2023-01-21,Electronics,13.0,Credit Card,NY,False,60.0
+516,145,2023-10-30,Clothing,12.73,Debit Card,FL,False,33.0
+517,217,2023-12-23,Electronics,37.29,Cash,PA,False,50.0
+518,132,2023-03-25,Clothing,35.36,Debit Card,IL,False,46.0
+519,292,2023-09-19,Books,23.7,PayPal,FL,True,56.0
+520,70,2023-05-27,Clothing,45.11,Credit Card,OH,False,27.0
+521,252,2023-09-14,Clothing,42.28,PayPal,,False,26.0
+522,275,2023-02-27,Clothing,36.79,Debit Card,CA,False,48.0
+523,182,2023-01-15,Electronics,72.8,Debit Card,CA,False,45.0
+524,167,2023-06-11,Clothing,105.99,Cash,CA,False,74.0
+525,91,2023-06-12,Electronics,34.46,Cash,TX,False,20.0
+526,202,2023-11-16,Electronics,27.14,Cash,CA,True,71.0
+527,19,2023-10-08,Electronics,110.19,PayPal,IL,False,72.0
+528,39,2023-10-07,Clothing,39.34,Cash,FL,True,
+529,126,2023-01-12,Books,59.08,Debit Card,,False,42.0
+530,173,2023-10-01,Electronics,18.06,Cash,PA,False,32.0
+531,141,2023-09-28,Clothing,17.79,Credit Card,CA,False,19.0
+532,242,2023-07-27,Home,27.32,Cash,OH,False,41.0
+533,220,2023-01-27,Electronics,38.5,PayPal,TX,False,31.0
+534,126,2023-03-13,Books,40.69,Credit Card,PA,False,65.0
+535,58,2023-03-01,Clothing,24.8,Credit Card,OH,False,24.0
+536,148,2023-05-25,Clothing,47.24,Credit Card,TX,False,53.0
+537,1,2023-04-03,Home,44.53,PayPal,PA,False,67.0
+538,190,2023-11-05,Electronics,93.57,Debit Card,FL,False,41.0
+539,191,2023-01-08,Home,18.37,Cash,IL,False,44.0
+540,117,2023-03-20,Clothing,56.96,Credit Card,NY,False,54.0
+541,134,2023-01-27,Books,33.94,Credit Card,IL,False,55.0
+542,58,2023-06-23,Electronics,22.66,Credit Card,CA,False,47.0
+543,44,2023-02-19,Clothing,12.55,Debit Card,OH,False,44.0
+544,173,2023-07-18,Home,39.38,Debit Card,NY,True,56.0
+545,160,2023-12-15,Electronics,27.21,PayPal,TX,False,32.0
+546,173,2023-06-30,Clothing,37.26,Debit Card,FL,False,43.0
+547,149,2023-01-24,Home,11.15,Cash,FL,False,18.0
+548,80,2023-11-12,Books,38.69,PayPal,TX,False,73.0
+549,213,2023-02-15,Clothing,36.88,PayPal,CA,False,21.0
+550,203,2023-01-15,Books,59.89,Cash,TX,False,46.0
+551,252,2023-06-02,Sports,88.71,Cash,PA,False,74.0
+552,229,2023-08-10,Books,45.92,Cash,OH,False,18.0
+553,164,2023-07-25,Electronics,21.37,PayPal,OH,False,60.0
+554,227,2023-09-30,Home,39.51,PayPal,CA,False,67.0
+555,147,2023-08-24,Clothing,29.0,PayPal,NY,False,63.0
+556,20,2023-12-06,Sports,45.03,Cash,TX,False,39.0
+557,47,2023-08-16,Clothing,7.33,Cash,CA,False,28.0
+558,233,2023-01-09,Electronics,70.17,Credit Card,OH,True,27.0
+559,14,2023-06-15,Home,17.98,Debit Card,NY,False,34.0
+560,143,2023-11-15,Clothing,17.27,Credit Card,TX,False,53.0
+561,1,2023-08-02,Sports,35.34,Cash,FL,False,73.0
+562,54,2023-04-27,Sports,28.9,PayPal,TX,False,64.0
+563,259,2023-12-10,Home,45.06,Cash,IL,False,43.0
+564,144,2023-03-13,Electronics,37.88,Debit Card,TX,True,65.0
+565,12,2023-03-05,Home,62.88,Credit Card,IL,False,38.0
+566,224,2023-07-24,Electronics,29.82,Credit Card,NY,False,
+567,272,2023-07-28,Electronics,39.0,PayPal,TX,False,26.0
+568,156,2023-03-13,Books,96.26,Credit Card,NY,False,28.0
+569,8,2023-10-04,Electronics,18.23,Credit Card,NY,False,28.0
+570,122,2023-10-01,Clothing,14.45,Cash,OH,False,23.0
+571,164,2023-11-16,Sports,35.96,Credit Card,CA,True,18.0
+572,90,2023-12-04,Clothing,7.5,Credit Card,NY,False,71.0
+573,136,2023-04-05,Electronics,15.43,Credit Card,NY,False,23.0
+574,186,2023-06-15,Sports,12.04,PayPal,OH,False,30.0
+575,178,2023-02-01,Electronics,2.43,PayPal,OH,False,39.0
+576,28,2023-01-11,Books,18.97,Cash,TX,False,73.0
+577,220,2023-10-28,Sports,26.8,Credit Card,OH,False,48.0
+578,41,2023-08-05,Sports,20.12,PayPal,TX,False,39.0
+579,228,2023-10-16,Home,11.38,PayPal,FL,False,54.0
+580,192,2023-04-12,Clothing,3.11,Cash,OH,False,64.0
+581,145,2023-09-24,Electronics,24.1,Debit Card,CA,False,44.0
+582,201,2023-08-02,Books,26.93,Credit Card,NY,False,67.0
+583,212,2023-06-28,Books,7.03,PayPal,CA,False,69.0
+584,220,2023-03-29,Clothing,23.74,Cash,IL,False,31.0
+585,240,2023-02-10,Electronics,29.75,Cash,OH,True,64.0
+586,46,2023-03-17,Electronics,38.85,Cash,NY,False,22.0
+587,35,2023-02-15,Electronics,49.25,PayPal,CA,True,53.0
+588,253,2023-06-09,Home,59.7,Credit Card,OH,False,49.0
+589,82,2023-03-21,Clothing,17.94,Debit Card,OH,False,51.0
+590,256,2023-11-06,Sports,18.94,Credit Card,FL,False,24.0
+591,197,2023-03-27,Home,12.61,Cash,FL,False,59.0
+592,10,2023-04-02,Electronics,29.06,Cash,NY,False,65.0
+593,286,2023-05-28,Home,27.47,Debit Card,IL,False,27.0
+594,242,2023-06-10,Clothing,2.08,Credit Card,FL,True,67.0
+595,251,2023-07-21,Home,9.03,Cash,FL,True,34.0
+596,5,2023-08-30,Home,30.7,Cash,IL,False,47.0
+597,119,2023-12-19,Books,38.39,Credit Card,CA,False,38.0
+598,289,2023-01-02,Books,12.84,Cash,FL,False,30.0
+599,65,2023-08-13,Electronics,64.08,Credit Card,TX,False,18.0
+600,146,2023-10-16,Electronics,71.01,Cash,PA,False,18.0
+601,224,2023-08-21,Home,20.5,Credit Card,,False,64.0
+602,239,2023-03-18,Electronics,27.86,Debit Card,FL,False,50.0
+603,177,2023-04-26,Clothing,30.35,Cash,CA,False,55.0
+604,267,2023-06-03,Electronics,40.91,Debit Card,OH,False,42.0
+605,282,2023-04-13,Home,29.41,Cash,CA,False,43.0
+606,63,2023-07-13,Electronics,32.67,Cash,NY,False,30.0
+607,217,2023-06-15,Home,12.25,PayPal,TX,False,45.0
+608,283,2023-12-25,Sports,16.45,Credit Card,CA,False,50.0
+609,177,2023-03-31,Electronics,30.32,Debit Card,IL,False,54.0
+610,98,2023-06-23,Electronics,33.75,Debit Card,TX,False,58.0
+611,105,2023-05-02,Clothing,92.23,Debit Card,PA,False,47.0
+612,99,2023-05-23,Books,45.11,Credit Card,TX,False,74.0
+613,6,2023-04-16,Electronics,11.43,PayPal,IL,False,66.0
+614,197,2023-11-01,Clothing,25.98,Debit Card,FL,True,65.0
+615,133,2023-12-26,Electronics,24.64,Credit Card,IL,False,25.0
+616,259,2023-11-13,Books,28.05,Cash,IL,False,66.0
+617,23,2023-05-03,Clothing,37.13,Debit Card,FL,False,64.0
+618,53,2023-01-09,Books,21.94,Debit Card,FL,True,73.0
+619,165,2023-09-19,Sports,75.48,PayPal,FL,False,18.0
+620,202,2023-03-14,Electronics,10.33,Debit Card,FL,False,29.0
+621,83,2023-12-25,Books,30.3,Debit Card,FL,False,22.0
+622,145,2023-08-11,Electronics,102.98,Cash,IL,False,41.0
+623,85,2023-02-10,Books,19.19,Credit Card,NY,False,23.0
+624,78,2023-07-23,Home,19.5,Credit Card,NY,False,
+625,1,2023-09-21,Books,98.55,PayPal,CA,False,18.0
+626,51,2023-11-24,Electronics,42.96,Cash,NY,False,42.0
+627,173,2023-06-27,Electronics,31.35,Credit Card,PA,False,18.0
+628,205,2023-12-14,Clothing,31.08,Cash,NY,False,49.0
+629,260,2023-11-14,Clothing,69.68,Credit Card,IL,False,59.0
+630,288,2023-03-25,Electronics,20.51,Cash,FL,False,59.0
+631,34,2023-11-14,Clothing,9.84,PayPal,FL,False,20.0
+632,95,2023-04-21,Electronics,10.54,Debit Card,OH,True,66.0
+633,72,2023-09-08,Clothing,41.85,PayPal,OH,True,36.0
+634,39,2023-01-07,Books,16.63,Credit Card,OH,False,60.0
+635,154,2023-03-25,Clothing,37.17,PayPal,IL,True,46.0
+636,250,2023-07-27,Electronics,11.86,Debit Card,PA,False,67.0
+637,162,2023-11-10,Clothing,46.93,PayPal,NY,False,19.0
+638,118,2023-01-22,Electronics,121.12,Credit Card,IL,False,26.0
+639,259,2023-01-03,Sports,40.09,Credit Card,CA,False,
+640,268,2023-05-07,Electronics,0.45,PayPal,FL,False,34.0
+641,54,2023-10-24,Home,76.73,Debit Card,OH,False,63.0
+642,236,2023-07-07,Sports,18.28,PayPal,TX,False,53.0
+643,222,2023-12-28,Books,6.01,Debit Card,CA,False,
+644,251,2023-01-14,Home,3.39,Cash,OH,False,66.0
+645,112,2023-01-12,Books,130.17,Debit Card,PA,False,29.0
+646,255,2023-03-28,Sports,33.62,Cash,CA,False,37.0
+647,207,2023-01-12,Home,19.06,PayPal,IL,False,67.0
+648,229,2023-01-25,Home,24.19,Debit Card,NY,True,20.0
+649,66,2023-10-28,Home,6.14,Cash,FL,False,
+650,75,2023-08-31,Clothing,37.63,Cash,PA,False,74.0
+651,103,2023-05-02,Home,49.73,Cash,PA,False,67.0
+652,192,2023-05-27,Clothing,12.13,Credit Card,TX,False,21.0
+653,252,2023-02-24,Electronics,41.2,PayPal,CA,False,
+654,226,2023-08-26,Electronics,148.29,Cash,TX,False,67.0
+655,294,2023-12-22,Electronics,54.29,Debit Card,NY,False,54.0
+656,98,2023-06-22,Electronics,31.92,Cash,OH,False,63.0
+657,286,2023-08-09,Electronics,10.33,Credit Card,NY,False,59.0
+658,249,2023-04-29,Home,57.27,PayPal,OH,False,32.0
+659,166,2023-11-05,Electronics,43.83,Credit Card,,False,50.0
+660,30,2023-07-02,Books,18.42,Credit Card,FL,False,33.0
+661,247,2023-10-15,Electronics,43.74,Credit Card,NY,False,28.0
+662,106,2023-11-03,Electronics,10.54,Debit Card,TX,False,72.0
+663,51,2023-10-27,Home,35.41,PayPal,CA,False,37.0
+664,81,2023-03-23,Home,26.09,PayPal,TX,False,55.0
+665,133,2023-07-30,Electronics,90.47,Debit Card,TX,False,41.0
+666,285,2023-05-30,Books,30.93,PayPal,IL,False,71.0
+667,138,2023-02-06,Books,134.57,Credit Card,NY,False,33.0
+668,184,2023-12-18,Clothing,30.15,PayPal,FL,False,47.0
+669,273,2023-11-08,Clothing,44.31,Debit Card,FL,False,51.0
+670,69,2023-12-27,Sports,78.58,Credit Card,IL,False,18.0
+671,34,2023-02-28,Home,55.48,Debit Card,OH,False,41.0
+672,262,2023-05-11,Clothing,3.16,Cash,PA,False,41.0
+673,53,2023-07-21,Books,44.02,Credit Card,OH,False,26.0
+674,205,2023-08-31,Electronics,42.03,Credit Card,FL,True,39.0
+675,126,2023-02-04,Clothing,6.81,PayPal,TX,False,29.0
+676,235,2023-04-03,Electronics,61.38,Credit Card,IL,False,34.0
+677,43,2023-07-26,Books,7.3,Debit Card,CA,False,42.0
+678,240,2023-12-19,Home,48.22,PayPal,NY,False,45.0
+679,111,2023-11-28,Home,27.9,Cash,NY,False,32.0
+680,249,2023-11-01,Electronics,49.43,Debit Card,NY,False,47.0
+681,151,2023-12-16,Electronics,35.61,Cash,TX,False,68.0
+682,183,2023-08-01,Clothing,28.1,Cash,CA,False,44.0
+683,95,2023-06-08,Home,31.23,Cash,IL,False,39.0
+684,8,2023-01-24,Clothing,9.24,Credit Card,IL,False,27.0
+685,184,2023-10-20,Electronics,63.28,Debit Card,NY,False,
+686,281,2023-01-04,Books,11.56,Debit Card,CA,False,44.0
+687,195,2023-08-08,Electronics,38.14,Credit Card,CA,False,29.0
+688,195,2023-12-30,Sports,36.61,PayPal,CA,False,63.0
+689,155,2023-01-20,Electronics,63.35,Cash,FL,False,48.0
+690,93,2023-06-01,Home,21.24,Debit Card,FL,False,49.0
+691,160,2023-02-19,Electronics,9.26,Credit Card,NY,False,
+692,61,2023-06-26,Sports,31.67,Cash,CA,False,58.0
+693,122,2023-04-06,Clothing,42.54,PayPal,PA,False,62.0
+694,51,2023-04-15,Electronics,31.05,PayPal,CA,False,52.0
+695,277,2023-09-07,Clothing,65.47,Cash,IL,False,70.0
+696,5,2023-04-27,Electronics,30.3,PayPal,IL,False,63.0
+697,92,2023-12-20,Electronics,3.73,Debit Card,NY,False,38.0
+698,170,2023-08-16,Sports,13.8,Debit Card,PA,False,27.0
+699,22,2023-03-07,Clothing,85.01,Debit Card,CA,False,33.0
+700,1,2023-12-01,Books,38.47,PayPal,OH,False,24.0
+701,133,2023-09-19,Home,13.71,Debit Card,PA,False,21.0
+702,233,2023-10-22,Home,36.47,Credit Card,NY,False,44.0
+703,12,2023-08-31,Electronics,29.1,Debit Card,IL,False,69.0
+704,46,2023-07-05,Electronics,31.3,Debit Card,OH,False,72.0
+705,34,2023-09-03,Books,4.07,PayPal,IL,False,42.0
+706,78,2023-05-05,Sports,41.1,Debit Card,FL,False,48.0
+707,218,2023-09-25,Electronics,7.64,Cash,NY,False,28.0
+708,73,2023-05-11,Electronics,12.81,Credit Card,NY,False,65.0
+709,282,2023-08-25,Clothing,14.17,PayPal,CA,False,37.0
+710,249,2023-01-18,Sports,17.46,Credit Card,CA,False,53.0
+711,47,2023-02-09,Electronics,32.19,Cash,FL,False,
+712,121,2023-01-21,Clothing,34.39,PayPal,OH,False,71.0
+713,214,2023-08-13,Books,56.93,PayPal,TX,False,72.0
+714,239,2023-12-21,Electronics,98.78,Debit Card,PA,False,34.0
+715,56,2023-10-09,Electronics,70.12,Credit Card,TX,False,62.0
+716,107,2023-01-08,Home,12.19,Cash,TX,False,28.0
+717,48,2023-04-10,Sports,36.96,Cash,NY,False,47.0
+718,61,2023-08-28,Electronics,66.83,PayPal,PA,False,52.0
+719,26,2023-03-28,Clothing,56.66,Debit Card,NY,False,58.0
+720,292,2023-10-25,Clothing,100.78,PayPal,PA,False,55.0
+721,257,2023-01-14,Clothing,39.37,PayPal,IL,False,39.0
+722,8,2023-11-30,Home,21.73,PayPal,NY,False,70.0
+723,113,2023-01-02,Clothing,61.26,PayPal,NY,False,60.0
+724,253,2023-10-20,Clothing,38.86,Cash,NY,False,65.0
+725,180,2023-11-21,Clothing,47.88,Cash,OH,False,68.0
+726,207,2023-02-10,Home,85.77,PayPal,FL,False,44.0
+727,127,2023-11-14,Clothing,40.2,PayPal,NY,False,54.0
+728,56,2023-11-12,Books,69.16,Debit Card,CA,False,63.0
+729,214,2023-04-21,Electronics,21.6,PayPal,CA,False,66.0
+730,14,2023-01-14,Books,13.92,Cash,PA,False,52.0
+731,28,2023-08-19,Books,33.29,Credit Card,IL,False,21.0
+732,78,2023-03-25,Electronics,29.94,Cash,FL,False,33.0
+733,216,2023-05-10,Clothing,68.89,Debit Card,,False,33.0
+734,154,2023-08-19,Clothing,89.66,Cash,PA,True,38.0
+735,14,2023-11-22,Electronics,88.08,Credit Card,CA,False,43.0
+736,187,2023-05-25,Clothing,2.34,PayPal,FL,False,74.0
+737,7,2023-12-11,Electronics,11.04,Credit Card,FL,False,53.0
+738,3,2023-01-28,Electronics,21.63,PayPal,IL,False,36.0
+739,111,2023-03-07,Books,22.17,PayPal,FL,False,34.0
+740,238,2023-06-12,Electronics,16.03,Cash,NY,False,62.0
+741,239,2023-08-17,Books,21.95,Cash,FL,False,43.0
+742,274,2023-09-18,Clothing,89.03,Cash,IL,False,39.0
+743,294,2023-06-13,Books,62.72,Debit Card,PA,False,72.0
+744,227,2023-10-28,Home,17.15,Cash,IL,False,73.0
+745,15,2023-10-30,Electronics,27.03,Debit Card,,False,45.0
+746,192,2023-10-14,Home,40.88,Cash,IL,True,
+747,119,2023-01-10,Electronics,4.68,PayPal,CA,False,61.0
+748,28,2023-07-14,Clothing,26.84,Debit Card,NY,False,53.0
+749,202,2023-04-28,Sports,26.41,Credit Card,CA,False,60.0
+750,39,2023-09-27,Electronics,25.64,Debit Card,,True,54.0
+751,273,2023-03-21,Clothing,63.73,Debit Card,TX,False,19.0
+752,231,2023-04-03,Home,25.55,Credit Card,PA,False,34.0
+753,86,2023-09-23,Books,3.92,Debit Card,NY,False,57.0
+754,126,2023-11-28,Home,67.54,PayPal,FL,False,
+755,25,2023-12-16,Electronics,19.16,Cash,IL,False,38.0
+756,145,2023-12-27,Home,14.11,Credit Card,TX,False,26.0
+757,13,2023-09-14,Electronics,19.91,Cash,NY,False,30.0
+758,212,2023-05-13,Home,91.09,PayPal,CA,False,28.0
+759,25,2023-10-03,Sports,6.92,Credit Card,IL,False,33.0
+760,68,2023-09-21,Home,44.72,Cash,PA,False,33.0
+761,67,2023-06-20,Books,22.23,Cash,CA,False,19.0
+762,233,2023-01-01,Electronics,43.54,PayPal,NY,False,59.0
+763,109,2023-11-09,Home,7.93,Cash,NY,False,61.0
+764,146,2023-03-05,Books,27.96,PayPal,PA,False,25.0
+765,111,2023-10-11,Electronics,26.96,Debit Card,TX,False,60.0
+766,228,2023-05-01,Books,26.96,PayPal,PA,False,59.0
+767,111,2023-04-17,Electronics,9.07,Debit Card,FL,False,30.0
+768,34,2023-06-24,Home,17.22,Credit Card,CA,False,74.0
+769,111,2023-07-23,Books,33.5,Cash,TX,False,34.0
+770,264,2023-06-14,Home,1.71,PayPal,IL,False,56.0
+771,236,2023-11-01,Electronics,7.57,PayPal,OH,False,41.0
+772,83,2023-04-30,Home,30.55,Cash,FL,False,
+773,42,2023-02-13,Clothing,36.56,Cash,TX,False,47.0
+774,101,2023-11-08,Sports,23.85,Credit Card,OH,False,69.0
+775,6,2023-06-05,Clothing,32.86,Credit Card,OH,False,30.0
+776,180,2023-07-26,Clothing,18.52,PayPal,CA,False,36.0
+777,282,2023-04-18,Home,62.98,Credit Card,NY,False,24.0
+778,226,2023-09-08,Clothing,85.71,Debit Card,IL,False,26.0
+779,229,2023-11-30,Home,8.24,Credit Card,PA,False,36.0
+780,289,2023-05-10,Home,15.71,Credit Card,CA,False,62.0
+781,150,2023-10-20,Books,59.06,PayPal,FL,False,71.0
+782,277,2023-01-20,Home,25.22,Debit Card,OH,True,57.0
+783,198,2023-10-09,Clothing,50.49,Credit Card,FL,False,39.0
+784,70,2023-10-12,Electronics,166.74,Debit Card,OH,False,35.0
+785,112,2023-01-01,Electronics,21.73,Debit Card,NY,False,40.0
+786,4,2023-04-29,Electronics,25.68,Debit Card,NY,False,19.0
+787,95,2023-02-04,Electronics,1.05,Cash,IL,False,67.0
+788,152,2023-07-17,Home,81.82,Cash,PA,False,
+789,137,2023-09-02,Home,52.92,Cash,IL,False,28.0
+790,247,2023-02-28,Clothing,56.51,Cash,NY,False,48.0
+791,243,2023-11-21,Books,37.61,PayPal,NY,False,50.0
+792,31,2023-06-10,Sports,24.72,Credit Card,FL,False,31.0
+793,40,2023-06-28,Books,65.18,Cash,,False,33.0
+794,229,2023-07-25,Home,10.9,PayPal,TX,False,28.0
+795,36,2023-01-12,Clothing,72.61,Credit Card,OH,False,50.0
+796,223,2023-10-03,Clothing,17.84,Cash,CA,False,24.0
+797,6,2023-06-30,Electronics,25.05,Credit Card,NY,False,48.0
+798,220,2023-08-30,Clothing,34.87,Cash,IL,True,65.0
+799,75,2023-08-04,Sports,34.7,PayPal,PA,False,
+800,4,2023-09-08,Books,47.68,Debit Card,OH,False,64.0
+801,134,2023-10-26,Electronics,9.94,Debit Card,OH,False,31.0
+802,118,2023-05-06,Clothing,32.38,Credit Card,PA,False,45.0
+803,94,2023-08-05,Books,44.89,PayPal,PA,False,70.0
+804,62,2023-11-02,Electronics,9.25,Debit Card,OH,False,60.0
+805,194,2023-10-12,Clothing,25.66,Cash,TX,False,33.0
+806,203,2023-07-04,Books,86.39,Debit Card,IL,False,36.0
+807,26,2023-02-08,Clothing,22.77,Credit Card,TX,False,34.0
+808,173,2023-08-11,Electronics,62.69,Credit Card,NY,True,43.0
+809,133,2023-07-03,Clothing,31.38,PayPal,CA,False,23.0
+810,118,2023-06-27,Books,102.47,Credit Card,,False,60.0
+811,275,2023-10-21,Home,29.13,Debit Card,IL,False,66.0
+812,212,2023-12-06,Electronics,34.37,Debit Card,PA,False,26.0
+813,225,2023-05-31,Clothing,63.9,Debit Card,TX,False,67.0
+814,20,2023-05-06,Clothing,14.76,Debit Card,FL,False,34.0
+815,113,2023-10-28,Home,21.04,PayPal,,True,48.0
+816,140,2023-11-04,Books,120.9,Cash,CA,False,29.0
+817,47,2023-12-02,Electronics,18.9,Cash,NY,False,40.0
+818,1,2023-08-22,Books,36.09,PayPal,FL,False,71.0
+819,90,2023-01-08,Electronics,48.26,Credit Card,CA,False,71.0
+820,142,2023-12-07,Clothing,95.65,Cash,FL,False,22.0
+821,38,2023-05-09,Electronics,5.46,Credit Card,NY,False,60.0
+822,293,2023-09-21,Clothing,12.3,Cash,TX,False,53.0
+823,139,2023-06-06,Clothing,56.16,Credit Card,OH,False,53.0
+824,259,2023-12-18,Clothing,97.11,PayPal,NY,False,20.0
+825,161,2023-12-24,Electronics,56.44,Debit Card,NY,False,41.0
+826,178,2023-01-05,Home,10.7,Credit Card,NY,False,72.0
+827,10,2023-03-27,Electronics,21.31,Debit Card,IL,False,74.0
+828,261,2023-06-24,Books,55.45,Credit Card,FL,False,34.0
+829,138,2023-10-17,Sports,13.01,Credit Card,FL,False,56.0
+830,172,2023-07-12,Clothing,76.09,Credit Card,PA,False,43.0
+831,13,2023-11-07,Clothing,34.93,Credit Card,FL,False,21.0
+832,168,2023-04-29,Clothing,8.6,Credit Card,PA,False,72.0
+833,130,2023-08-06,Electronics,50.98,Debit Card,IL,False,
+834,84,2023-04-24,Clothing,27.03,Credit Card,TX,False,29.0
+835,101,2023-05-25,Books,20.95,Debit Card,PA,False,18.0
+836,273,2023-01-26,Home,13.98,PayPal,NY,False,38.0
+837,265,2023-05-16,Electronics,25.85,Cash,TX,False,36.0
+838,38,2023-10-30,Books,28.47,Credit Card,OH,False,38.0
+839,94,2023-08-20,Clothing,38.93,Cash,IL,False,69.0
+840,95,2023-03-17,Books,13.13,Debit Card,FL,True,35.0
+841,69,2023-11-24,Home,15.24,PayPal,PA,False,
+842,236,2023-12-11,Home,83.09,PayPal,NY,False,69.0
+843,137,2023-10-29,Electronics,9.28,PayPal,CA,False,20.0
+844,76,2023-10-16,Electronics,60.48,Cash,OH,False,66.0
+845,35,2023-01-01,Sports,5.82,Debit Card,CA,False,61.0
+846,1,2023-05-27,Electronics,59.24,Credit Card,TX,False,
+847,296,2023-10-14,Sports,7.34,Credit Card,FL,False,27.0
+848,60,2023-05-22,Clothing,60.02,Debit Card,CA,False,57.0
+849,267,2023-02-22,Electronics,24.38,Cash,TX,False,32.0
+850,229,2023-10-31,Electronics,23.97,Credit Card,IL,False,22.0
+851,270,2023-03-10,Electronics,116.93,Debit Card,TX,False,21.0
+852,286,2023-12-27,Sports,9.01,Credit Card,OH,False,45.0
+853,291,2023-03-31,Clothing,24.27,PayPal,TX,False,70.0
+854,213,2023-08-08,Clothing,44.75,Credit Card,OH,False,69.0
+855,165,2023-07-11,Clothing,51.69,Cash,TX,False,68.0
+856,5,2023-03-04,Electronics,97.14,Debit Card,NY,False,70.0
+857,78,2023-03-14,Clothing,6.84,Cash,TX,False,21.0
+858,62,2023-06-10,Electronics,88.01,Debit Card,PA,False,32.0
+859,132,2023-06-18,Books,13.19,PayPal,TX,False,34.0
+860,89,2023-03-30,Clothing,14.95,Debit Card,NY,False,61.0
+861,237,2023-06-25,Clothing,65.96,Credit Card,NY,True,20.0
+862,42,2023-09-26,Clothing,77.6,Credit Card,IL,False,27.0
+863,89,2023-03-14,Clothing,16.11,PayPal,OH,False,64.0
+864,296,2023-09-02,Sports,53.96,Debit Card,FL,False,59.0
+865,295,2023-03-18,Clothing,24.21,PayPal,CA,False,73.0
+866,104,2023-06-08,Electronics,29.39,Credit Card,CA,False,40.0
+867,14,2023-11-20,Home,24.19,Cash,TX,False,35.0
+868,288,2023-04-08,Electronics,9.07,PayPal,IL,False,18.0
+869,179,2023-04-12,Electronics,33.73,Cash,TX,False,52.0
+870,125,2023-05-12,Sports,20.52,Cash,CA,False,70.0
+871,23,2023-04-12,Books,75.48,Debit Card,OH,False,48.0
+872,63,2023-01-19,Sports,47.35,PayPal,OH,True,61.0
+873,143,2023-03-23,Clothing,61.06,Cash,OH,True,18.0
+874,153,2023-10-06,Clothing,26.56,Cash,NY,False,20.0
+875,145,2023-12-05,Electronics,24.0,Debit Card,FL,False,20.0
+876,225,2023-12-31,Electronics,29.5,Debit Card,IL,False,54.0
+877,104,2023-11-27,Books,111.9,Credit Card,NY,False,36.0
+878,104,2023-05-09,Clothing,12.94,Cash,FL,False,46.0
+879,39,2023-12-10,Books,24.56,Credit Card,IL,False,42.0
+880,198,2023-11-06,Home,23.0,Cash,IL,False,50.0
+881,134,2023-03-30,Electronics,59.36,Credit Card,CA,False,53.0
+882,67,2023-08-01,Clothing,34.53,Debit Card,NY,False,46.0
+883,179,2023-05-23,Home,19.61,PayPal,IL,False,43.0
+884,42,2023-03-06,Electronics,68.51,Debit Card,PA,False,21.0
+885,15,2023-03-17,Books,76.59,Credit Card,OH,False,66.0
+886,111,2023-07-18,Clothing,83.12,Credit Card,IL,False,31.0
+887,157,2023-05-23,Electronics,26.9,PayPal,FL,False,67.0
+888,289,2023-11-12,Home,46.78,Cash,CA,False,44.0
+889,231,2023-04-03,Sports,24.89,Credit Card,TX,False,50.0
+890,157,2023-11-01,Electronics,42.07,Credit Card,OH,False,39.0
+891,38,2023-08-12,Books,44.99,Credit Card,CA,False,65.0
+892,97,2023-10-18,Electronics,24.15,PayPal,TX,False,20.0
+893,289,2023-04-12,Books,29.56,Debit Card,NY,False,
+894,254,2023-09-24,Home,16.62,Credit Card,NY,False,38.0
+895,196,2023-12-21,Clothing,12.77,PayPal,IL,False,58.0
+896,86,2023-04-20,Clothing,32.96,Credit Card,PA,False,40.0
+897,10,2023-11-26,Books,30.09,Cash,NY,False,
+898,5,2023-09-22,Clothing,24.19,PayPal,IL,False,
+899,123,2023-01-03,Home,54.59,Credit Card,OH,False,54.0
+900,118,2023-03-26,Electronics,34.22,PayPal,CA,False,60.0
+901,294,2023-10-09,Books,37.89,Credit Card,NY,False,48.0
+902,159,2023-11-24,Home,87.72,Debit Card,CA,False,38.0
+903,228,2023-10-31,Sports,80.89,Credit Card,CA,False,43.0
+904,216,2023-04-27,Electronics,49.28,PayPal,PA,False,58.0
+905,184,2023-08-09,Home,65.51,Cash,NY,False,52.0
+906,15,2023-06-03,Home,5.57,Cash,CA,False,55.0
+907,157,2023-06-02,Clothing,55.04,Cash,PA,False,41.0
+908,136,2023-01-12,Clothing,29.6,Credit Card,PA,False,28.0
+909,261,2023-05-13,Electronics,53.71,Debit Card,NY,False,58.0
+910,157,2023-10-31,Home,16.96,Credit Card,PA,True,46.0
+911,47,2023-10-20,Clothing,23.55,Cash,NY,False,64.0
+912,173,2023-10-27,Electronics,21.74,PayPal,NY,False,72.0
+913,130,2023-08-16,Home,28.24,Cash,TX,False,20.0
+914,95,2023-09-28,Clothing,57.03,PayPal,CA,False,18.0
+915,115,2023-02-12,Electronics,13.07,Debit Card,FL,True,69.0
+916,243,2023-12-09,Sports,31.1,PayPal,NY,False,71.0
+917,292,2023-11-22,Sports,36.83,Credit Card,CA,False,
+918,282,2023-10-29,Clothing,9.93,Credit Card,,False,63.0
+919,299,2023-12-30,Electronics,36.2,Credit Card,PA,False,66.0
+920,283,2023-01-21,Books,18.84,PayPal,IL,False,39.0
+921,69,2023-04-17,Clothing,30.11,Credit Card,NY,True,31.0
+922,148,2023-12-02,Clothing,69.57,Credit Card,PA,False,66.0
+923,11,2023-10-30,Clothing,29.8,Credit Card,PA,False,74.0
+924,254,2023-04-27,Clothing,76.76,Debit Card,PA,True,31.0
+925,38,2023-05-04,Home,25.11,PayPal,PA,False,61.0
+926,134,2023-10-08,Clothing,15.97,PayPal,PA,False,33.0
+927,200,2023-10-19,Home,44.87,Cash,NY,False,50.0
+928,23,2023-07-22,Sports,38.84,PayPal,OH,False,30.0
+929,218,2023-02-20,Clothing,49.38,Debit Card,FL,False,55.0
+930,141,2023-09-28,Home,22.54,PayPal,TX,False,66.0
+931,104,2023-11-20,Books,54.18,Debit Card,PA,False,29.0
+932,210,2023-10-04,Clothing,16.7,Debit Card,PA,False,72.0
+933,111,2023-05-21,Clothing,159.11,PayPal,TX,False,68.0
+934,104,2023-10-02,Home,54.71,Cash,OH,False,55.0
+935,171,2023-10-17,Home,59.66,Credit Card,OH,False,56.0
+936,133,2023-11-30,Books,62.41,Credit Card,NY,False,50.0
+937,293,2023-02-21,Clothing,57.12,PayPal,CA,False,50.0
+938,127,2023-01-27,Sports,13.7,PayPal,IL,False,46.0
+939,106,2023-06-06,Electronics,36.74,Debit Card,IL,False,22.0
+940,92,2023-08-27,Electronics,27.9,PayPal,CA,False,23.0
+941,287,2023-06-05,Home,41.19,Debit Card,NY,False,48.0
+942,51,2023-10-18,Electronics,37.89,Cash,IL,False,33.0
+943,29,2023-05-16,Electronics,15.99,PayPal,OH,False,48.0
+944,296,2023-05-24,Clothing,63.72,Credit Card,TX,False,42.0
+945,297,2023-04-16,Electronics,97.3,Credit Card,CA,False,65.0
+946,214,2023-06-07,Electronics,25.47,PayPal,OH,False,63.0
+947,267,2023-05-26,Sports,42.04,Debit Card,FL,False,50.0
+948,257,2023-01-02,Electronics,45.73,Credit Card,NY,False,30.0
+949,101,2023-03-18,Home,21.09,Debit Card,CA,False,69.0
+950,110,2023-05-12,Books,34.42,PayPal,IL,False,27.0
+951,182,2023-03-31,Sports,5.89,PayPal,NY,False,41.0
+952,1,2023-12-11,Electronics,47.36,Credit Card,TX,False,27.0
+953,55,2023-12-16,Books,67.4,PayPal,NY,False,58.0
+954,149,2023-09-20,Clothing,26.48,Cash,NY,False,48.0
+955,137,2023-12-17,Home,23.72,Cash,TX,False,30.0
+956,202,2023-04-18,Home,60.67,Credit Card,PA,False,20.0
+957,117,2023-03-15,Books,9.33,Cash,TX,False,67.0
+958,154,2023-02-08,Clothing,37.63,Debit Card,OH,True,69.0
+959,291,2023-06-08,Home,19.79,Credit Card,NY,False,51.0
+960,63,2023-03-12,Clothing,10.39,Credit Card,TX,False,66.0
+961,244,2023-11-08,Books,51.79,Debit Card,PA,False,45.0
+962,25,2023-08-29,Sports,58.34,Cash,OH,False,36.0
+963,90,2023-10-25,Electronics,13.95,Cash,CA,True,40.0
+964,75,2023-02-05,Sports,62.74,Cash,TX,False,62.0
+965,294,2023-03-25,Electronics,46.66,Credit Card,TX,False,49.0
+966,210,2023-09-20,Electronics,14.17,Credit Card,NY,True,30.0
+967,17,2023-11-06,Electronics,11.0,Cash,OH,False,50.0
+968,128,2023-06-21,Clothing,99.84,PayPal,CA,False,51.0
+969,251,2023-06-22,Home,29.16,Cash,FL,False,50.0
+970,179,2023-12-28,Electronics,7.84,Debit Card,FL,False,73.0
+971,182,2023-02-16,Electronics,31.1,Credit Card,IL,False,22.0
+972,152,2023-05-21,Sports,25.27,Debit Card,TX,False,73.0
+973,25,2023-04-28,Books,33.38,Debit Card,TX,False,20.0
+974,180,2023-10-04,Books,35.63,Credit Card,CA,False,24.0
+975,198,2023-08-02,Books,25.33,PayPal,PA,False,41.0
+976,161,2023-08-08,Home,93.03,Cash,FL,False,39.0
+977,177,2023-01-26,Electronics,27.62,Debit Card,IL,False,62.0
+978,285,2023-01-09,Clothing,9.09,Credit Card,CA,False,40.0
+979,63,2023-09-28,Home,101.88,Debit Card,TX,False,47.0
+980,150,2023-01-10,Electronics,14.33,Cash,FL,False,35.0
+981,154,2023-05-01,Home,19.51,PayPal,OH,False,49.0
+982,156,2023-05-05,Electronics,53.6,PayPal,IL,True,73.0
+983,49,2023-06-19,Clothing,18.69,PayPal,NY,False,70.0
+984,84,2023-03-13,Clothing,16.26,Credit Card,FL,False,24.0
+985,177,2023-06-01,Home,58.44,Credit Card,IL,False,50.0
+986,148,2023-07-27,Home,46.38,PayPal,CA,True,22.0
+987,118,2023-02-18,Home,79.11,Cash,NY,False,66.0
+988,63,2023-06-03,Electronics,33.71,Cash,IL,False,45.0
+989,189,2023-12-13,Electronics,1.92,Credit Card,IL,False,25.0
+990,49,2023-10-20,Books,16.91,PayPal,TX,False,32.0
+991,257,2023-03-09,Home,122.33,Cash,PA,False,69.0
+992,224,2023-02-19,Electronics,49.29,Cash,FL,False,21.0
+993,141,2023-06-01,Books,62.18,Cash,,False,51.0
+994,215,2023-01-19,Electronics,109.82,Credit Card,OH,False,22.0
+995,211,2023-04-10,Clothing,54.23,PayPal,NY,False,50.0
+996,32,2023-03-01,Electronics,49.22,Debit Card,PA,False,74.0
+997,158,2023-06-16,Home,63.35,PayPal,,False,22.0
+998,285,2023-07-21,Home,46.69,PayPal,TX,False,55.0
+999,286,2023-12-11,Electronics,31.49,Credit Card,PA,False,51.0
+1000,144,2023-05-26,Books,37.03,Cash,OH,False,43.0
