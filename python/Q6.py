@@ -3,17 +3,20 @@
 from common import data
 
 
-# amount of orders from each customer
+# number of orders from each customer
 order_counts = data.groupby('customer_id')['customer_id'].count()
 
 # customers with more than 1 order
 repeats = order_counts[order_counts>1]
 
+# count total and repeat customers
 num_customers = order_counts.count()
 num_repeats = repeats.count()
 
+# number of repeat orders from each customer
 repeat_orders = order_counts - 1
 
+# percentage of orders that are repeat orders
 repeat_percentage = num_repeats/num_customers * 100
 
 
