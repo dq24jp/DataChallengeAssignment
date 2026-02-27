@@ -1,7 +1,6 @@
 # 5. Is there a relationship between product category and customer age?
 
 import matplotlib.pyplot as plt
-import numpy as np
 from common import data
 
 # points to plot
