@@ -16,7 +16,7 @@ num_repeats = repeats.count()
 # number of repeat orders from each customer
 repeat_orders = order_counts - 1
 
-# percentage of orders that are repeat orders
+# percentage of customers that are repeat customers
 repeat_percentage = num_repeats/num_customers * 100
 
 
