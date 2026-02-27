@@ -17,6 +17,8 @@ y_trend = trend_m*x_dat + trend_b
 plot = plt.figure()
 plt.plot(x_dat, y_dat, "k .")
 plt.plot(x_dat, y_trend, "b-,")
+
+# add labels
 plt.title("Purchase Amount vs Customer Age")
 plt.xlabel("Customer age (years)")
 plt.ylabel("Purchase amount (dollars)")

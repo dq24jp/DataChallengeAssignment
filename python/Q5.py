@@ -25,14 +25,15 @@ cat_zscores = (medians-total_median)/total_stdev
 # plot customer ages vs category
 plot = plt.figure()
 plt.plot(x_dat, y_dat, "k .")
-plt.title("Age across categories")
-plt.xlabel("Product category")
-plt.ylabel("Customer age (years)")
 
 # plot median, outlier boundary
 plt.plot(categories, medians, "b x")
 plt.errorbar(categories, medians, 2*stdevs, fmt="b x", alpha=0.2, elinewidth=15) # 2*stdev is boundary for outliers
 
+# add labels
+plt.title("Age across categories")
+plt.xlabel("Product category")
+plt.ylabel("Customer age (years)")
 plt.legend(["ages", "median age", "expected range"])
 
 
